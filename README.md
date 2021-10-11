@@ -20,5 +20,4 @@
 <div align="center">
 <a target="_blank"
 href="https://www.linkedin.com/in/aladdin-alsalem-5a68ba1a0/"><img
-src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
-href="mailto:shittuadedamola@rocketmail.com">
+src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a>
